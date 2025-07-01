@@ -18,8 +18,8 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatJain&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatJain&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwat-dev1&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-dev1&layout=compact&theme=github_dark" />
 </p>
 
 ### 📝 Latest Projects:
