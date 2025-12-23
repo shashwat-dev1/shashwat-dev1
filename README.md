@@ -33,20 +33,12 @@ Designing data-driven products, applied ML systems, and scalable AI solutions.
 ## 📊 GitHub Performance Metrics (Auto-Updated)
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shashwat-dev1&show_icons=true&theme=dark&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=shashwat-dev1&theme=dark&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-stats-brown-rho-18.vercel.app/api?username=shashwat-dev1&show_icons=true&theme=dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shashwat-dev1&theme=dark" height="165"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-dev1&layout=compact&theme=dark&hide_border=true"
-  />
+  <img src="https://github-readme-stats-brown-rho-18.vercel.app/api/top-langs/?username=shashwat-dev1&layout=compact&theme=dark"/>
 </p>
 
 ---
