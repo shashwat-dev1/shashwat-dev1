@@ -37,9 +37,9 @@ Designing data-driven products, applied ML systems, and scalable AI solutions.
     src="https://github-readme-stats-brown-rho-18.vercel.app/api?username=shashwat-dev1&show_icons=true&theme=dark&hide_border=true&rank_icon=github" 
     height="165"
   />
+<p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=shashwat-dev1&theme=dark&hide_border=true" 
-    height="165"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat-dev1&theme=github-compact&hide_border=true"
   />
 </p>
 
