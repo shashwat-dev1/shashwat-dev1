@@ -6,7 +6,7 @@ Data Science & Machine Learning | Software Engineering | Applied AI
 <p align="center">
 Designing data-driven products, applied ML systems, and scalable AI solutions.
 </p>
-
+ 
 ---
 
 ## 🚀 Professional Snapshot
